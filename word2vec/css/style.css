@@ -31,3 +31,13 @@ img {
     height: 50%;
     width: 50%;
 }
+
+li {
+    font-size: 1em;
+    color: gray;
+}
+
+li:hover {
+    color: black;
+    text-decoration: underline;
+}
