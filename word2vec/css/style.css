@@ -1,0 +1,43 @@
+.banner {
+    border-left: solid 5px black;
+    background: lightgray;
+    padding-left: 1em;
+}
+
+.tip {
+    border-left-color: darkgreen;
+    background: lightgreen;
+}
+
+.attention {
+    border-left-color: goldenrod;
+    background: lightgoldenrodyellow;
+}
+.warning {
+    border-left-color: darkred;
+    background: lightcoral;
+}
+
+.section-header {
+    color: green;
+}
+
+h1 {
+    font-family: 'Helvetica', 'Arial', sans-serif;
+    color: black;
+}
+
+img {
+    height: 50%;
+    width: 50%;
+}
+
+li {
+    font-size: 1em;
+    color: gray;
+}
+
+li:hover {
+    color: black;
+    text-decoration: underline;
+}
