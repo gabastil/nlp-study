@@ -1,0 +1,22 @@
+/**
+ * filename: word2vec.css
+ * author: Glenn Abastillas
+ * created: 2020-03-26
+ * description: this stylesheet contains definition to style the word2vec
+ * 		jupyter notebook.
+ */
+
+
+html {
+	background: red;
+}
+
+.color {
+	font-size: 3em;
+	color: red;
+}
+
+.banner {
+	border-left: solid 2px orange;
+	background: pink;
+}
